@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "jingrsu"
+description              : "Per Aspera Ad Astra. "
+repository               : "jingrsu/jingrsu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jingran Su"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/photo.jpg"
   bio              : "PolyU"
   location         : "Hong Kong, China"
   employer         :
@@ -49,7 +49,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : icety3.1
+  steam            : icety2
   tumblr           :
   twitter          : 
   vine             :
