@@ -19,40 +19,27 @@ redirect_from:
 
 I'm a first-year Ph.D. student in the Department of Computing (COMP) at Hong Kong Polytechnic University (PolyU). I am fortunately advised by under the upervision of [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and [Dr. Wenqi Fan](https://wenqifan03.github.io/). Before that, I received my bachelor and master degree from Northwestern Polytechnical University.
 
-My research interest includes Recommendations (RecSys), Graph Neural Networks (GNNs), and Trustworthy AI.
+My research interest includes Embodied AI and Trustworthy AI.
 
-
-# 🔥 News
-- *2022.04*: &nbsp;🎉🎉 My firend Jingfan‘s paper Knowledge-enhanced Black-box Attacks for Recommendations is accepted in KDD 2022. 
-- *2022.03*: &nbsp;🎉🎉 My firend Jingfan‘s paper AutoGSR: Neural Architecture Search for Graph-based Session Recommendation is accepted in SIGIR 2022. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Wenqi Fan, Xiangyu Zhao, Xiao Chen, **Jingran Su**, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li: A Comprehensive Survey on Trustworthy Recommender Systems. CoRR abs/2209.10117 (2022)
+- Yuwei Cheng, **Jingran Su**, Mengxin Jiang, Yimin Liu: A Novel Radar Point Cloud Generation Method for Robot Environment Perception. IEEE Trans. Robotics 38(6): 3754-3773 (2022)
+- Yuwei Cheng, **Jingran Su**, Hongyu Chen, Yimin Liu: A New Automotive Radar 4D Point Clouds Detector by Using Deep Learning. ICASSP 2021: 8398-8402
+- **Jingran Su**, Yang Zhao, Xuelong Li: Progressive Spatio-Temporal Feature Extraction Model For Gait Recognition. ICIP 2021: 1004-1008
+- **Jingran Su**, Yang Zhao, Xuelong Li: Deep Metric Learning Based On Center-Ranked Loss for Gait Recognition. ICASSP 2020: 4077-4081
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 🎖 Honors and Awards 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- *2021.03* Presidential Fellowship 
+- *2020.10* Inspur Scholarship 
+- *2019.12* Outstanding Postgraduate 
+- *2017.12* China Aviation Industry Scholarship 
+- *2017.12* Undergraduate Science and Technology Star 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - present*, the Department of Computing, The Hong Kong Polytechnic University, Hong Kong, China.
+- *2018.09 - 2021.03*, the School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi'an, China.
+- *2014.09 - 2018.06*, the School of Automation, Northwestern Polytechnical University, Xi'an, China.
