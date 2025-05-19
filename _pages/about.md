@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year Ph.D. student in the Department of Computing (COMP) at Hong Kong Polytechnic University (PolyU). I am fortunately advised by under the upervision of [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and [Dr. Wenqi Fan](https://wenqifan03.github.io/). Before that, I received my bachelor and master degree from Northwestern Polytechnical University.
+I'm a third-year Ph.D. student in the Department of Computing (COMP) at Hong Kong Polytechnic University (PolyU). I am fortunately advised by under the upervision of [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and [Prof. Zhaoxiang Zhang](https://scholar.google.com/citations?user=qxWfV6cAAAAJ&hl=en). Before that, I received my bachelor and master degree from Northwestern Polytechnical University.
 
-My research interest includes Embodied AI and Trustworthy AI.
+My research interest includes MLLM and Agent.
 
+# 🔥 News
+- *2025.05*: &nbsp; Two papers are accepted by ACL 2025 🎉🎉!
+- *2023.09*: &nbsp; Our paper [SheetCopilot] is accepted by NeurIPS 2023 🎉🎉!
 
 # 📝 Publications 
-
+- Hongxin Li\*, **Jingran Su**\*, Yuntao Chen, Qing Li, Zhaoxiang Zhang: SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models. NeurIPS 2023: 4952-4984
 - Wenqi Fan, Xiangyu Zhao, Xiao Chen, **Jingran Su**, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li: A Comprehensive Survey on Trustworthy Recommender Systems. CoRR abs/2209.10117 (2022)
 - Yuwei Cheng, **Jingran Su**, Mengxin Jiang, Yimin Liu: A Novel Radar Point Cloud Generation Method for Robot Environment Perception. IEEE Trans. Robotics 38(6): 3754-3773 (2022)
 - Yuwei Cheng, **Jingran Su**, Hongyu Chen, Yimin Liu: A New Automotive Radar 4D Point Clouds Detector by Using Deep Learning. ICASSP 2021: 8398-8402
